@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "Drink": "Cappuccino",
+        "Preparation": "Espresso",
+        "Temperature": "Hot",
+        "Ingredients": "Equal amount of espresso and steamed milk",
+        "Details": "Pour the espresso through the milk and serve."
+    },
+    {
+        "Id": 2,
+        "Drink": "Latte",
+        "Preparation": "Espresso",
+        "Temperature": "Hot",
+        "Ingredients": "2/3 or more steamed milk and espresso",
+        "Details": "Pour the espresso through the milk and serve."
+    },
+    {
+        "Id": 3,
+        "Drink": "Macchiato",
+        "Preparation": "Espresso",
+        "Temperature": "Hot",
+        "Ingredients": "Espresso with just a \"mark\" of steamed milk",
+        "Details": "Add milk to the expresso after pressing."
+    },
+    {
+        "Id": 4,
+        "Drink": "Iced Coffee",
+        "Preparation": "Drip or french press",
+        "Temperature": "Cold",
+        "Ingredients": "Coffee poured over ice",
+        "Details": "Can be sweetened with sugar or creme."
+    },
+    {
+        "Id": 5,
+        "Drink": "Frappé",
+        "Preparation": "Strong instant coffee",
+        "Temperature": "Cold",
+        "Ingredients": "Instant coffee, water and milk Shake to create a foam, then pour over ice and serve.",
+        "Details": "A specialty in Greece"
+    },
+    {
+        "Id": 6,
+        "Drink": "Flat white",
+        "Preparation": "Espresso",
+        "Temperature": "Hot",
+        "Ingredients": "1/3 espresso and 2/3 steamed milk",
+        "Details": "A specialty in Australia and New Zealand. The foam is often decorated with a motif."
+    }
+]
